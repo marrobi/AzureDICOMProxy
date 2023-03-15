@@ -1,6 +1,6 @@
 # Azure DICOM Proxy
 
-This repository has taken a portion of code from https://github.com/UCLH-Foundry/PIXL/ (Apche 2.0, not yet public) to provide a very simple demonstration on how Orthanc can be used to proxy files from DIMSE to the Azure DICOM service.
+This repository has taken a portion of code from https://github.com/UCLH-Foundry/PIXL/ (Apache 2.0, not yet public) to provide a very simple demonstration (not for production use) on how Orthanc can be used to proxy files from DIMSE to the Azure DICOM service.
 
 By using an Orthanc plugin additonal operations can be carried out on imaged prior to being sent to the Azure DICOM service. For example in UCLH's Pixl de-identification of the DICOM images.
 
